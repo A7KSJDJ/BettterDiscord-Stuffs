@@ -10,8 +10,7 @@
  */
 
 /* SRC */
-
-@import url("https://raw.githubusercontent.com/TheJoaqun/BettterDiscord-Stuffs/master/Src/Themes/Src/Beijin_Theme_src.css");
+@import url("https://thejoaqun.github.io/BettterDiscord-Stuffs/Src/Themes/Src/Beijin_Theme_src.css");
 
 /*  Read this before editing stuff!!!
 *
@@ -36,6 +35,7 @@
 
 /* Mac Like Titlebar (windows only), get mac style titlebar on windows client (Enabled by default) */
 @import url("https://dyzean.github.io/Tokyo-Night/addons/mac-titlebar.css");
+
 
 
 /* ==== Discord Variables ==== */
